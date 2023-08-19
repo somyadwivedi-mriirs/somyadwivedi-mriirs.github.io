@@ -221,7 +221,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Scholar',
     company: 'TalentSprint, Hyderabad supported by Google',
-    companyLogo: '/img/talentSprint.png',
+    companyLogo: '/img/talentSprint.PNG',
     date: 'Jun 2019 – Jun 2020',
     desc: 'Implemented a Dynamic Monument Identification Model using Convolutional Neural Networks with Keras. Enhanced model accuracy by incorporating the VGG16 pre-trained model.',
     // descBullets: [
@@ -239,7 +239,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Research Fellow',
     company: 'RCC, MRIIRS, Faridabad',
-    companyLogo: '/img/manavRachna.png',
+    companyLogo: '/img/manavRachna.PNG',
     date: 'July 2017 - Dec 2017',
     desc: 'Designed a web repository for personal documents with features for uploading and accessing the source code for various projects. Provided access to general users on a request basis.',
   },
