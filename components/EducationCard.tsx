@@ -7,7 +7,7 @@ const EducationCard = ({
   schoolName,
   subHeader,
   duration,
-  desc,
+  // desc,
   grade,
   descBullets,
 }: EducationType) => {
@@ -27,7 +27,7 @@ const EducationCard = ({
                   {grade}
                 </Badge>
               )}
-              <p className="description mt-3">{desc}</p>
+              {/* <p className="description mt-3">{desc}</p> */}
               <ul>
                 {descBullets
                   ? descBullets.map((desc) => {
